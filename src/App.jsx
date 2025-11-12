@@ -728,7 +728,7 @@ export default function App() {
         </main>
 
         <footer className="footer">
-          <p>TeamForge © 2024 • Built with ❤️</p>
+          <p>TeamForge © 2025 • Built with ❤️</p>
         </footer>
       </div>
     </BrowserRouter>
